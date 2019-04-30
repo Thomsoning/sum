@@ -1,4 +1,4 @@
-#这是一个springboot项目，通过提交post请求，输入 
+#这是一个springboot项目。打包成jar包形式，通过提交post请求，输入 
     学年 year;
     学期 term;
     密码 password;
